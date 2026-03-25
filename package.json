@@ -21,8 +21,7 @@
   ],
   "repository": {
     "type": "git",
-    "url": "https://github.com/graph-compose/graph-compose.git",
-    "directory": "packages/oss/core"
+    "url": "https://github.com/graph-compose/core.git"
   },
   "exports": {
     ".": {
